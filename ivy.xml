@@ -23,6 +23,7 @@
       <exclude module="anto"/>
     </dependency>
 
+
     <!-- Static Analysis -->
     <dependency org="com.puppycrawl.tools" name="checkstyle" rev="5.5"
                 conf="analysis->default"/>
@@ -33,4 +34,4 @@
                 conf="analysis->default"/>
   </dependencies>
 </ivy-module>
-<!-- ANDRE HESEL-->
+<!-- ANDRE HESEL : GANTENG-->
