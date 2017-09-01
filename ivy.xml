@@ -20,7 +20,7 @@
                 conf="test->default"/>
     <dependency org="net.sourceforge.cobertura" name="cobertura" rev="1.9.4.1"
                 conf="test->default">
-      <exclude module="ant"/>
+      <exclude module="anto"/>
     </dependency>
 
     <!-- Static Analysis -->
